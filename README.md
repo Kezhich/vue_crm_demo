@@ -1,4 +1,4 @@
-# Vud + Firebase accountaing CRM boilerplate
+# Vue + Firebase accountaing CRM boilerplate
 
 Simple CRM boilerplate based on vue.js and firebase.
 
